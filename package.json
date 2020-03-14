@@ -1,5 +1,5 @@
 {
-  "name": "mobel",
+  "name": "CarGallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,5 +27,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.5.0",
+    "axios": "^0.19.0",
+    "react-router-dom": "^5.1.2"
   }
 }
